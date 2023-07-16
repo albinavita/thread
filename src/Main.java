@@ -1,3 +1,7 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.Scanner;
+
 /**
  * Пользователь вводит с клавиатуры значение в массив.
  * После чего запускаются два потока.
